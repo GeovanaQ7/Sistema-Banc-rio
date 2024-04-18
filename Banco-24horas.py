@@ -1,4 +1,5 @@
 print("hello word")
+print("qualquer outra coisa")
 
 
 menu='''
