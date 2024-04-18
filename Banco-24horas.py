@@ -1,3 +1,6 @@
+print("hello word")
+
+
 menu='''
      
       [d]-Depositar
